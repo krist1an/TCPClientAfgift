@@ -1,0 +1,22 @@
+E:\Projects\Console\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.deps.json
+E:\Projects\Console\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.runtimeconfig.json
+E:\Projects\Console\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.runtimeconfig.dev.json
+E:\Projects\Console\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.dll
+E:\Projects\Console\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.pdb
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.csprojAssemblyReference.cache
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.csproj.CoreCompileInputs.cache
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.AssemblyInfoInputs.cache
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.AssemblyInfo.cs
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.dll
+E:\Projects\Console\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.deps.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.runtimeconfig.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.runtimeconfig.dev.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\bin\Debug\netcoreapp2.1\SocketClient.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.csprojAssemblyReference.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.csproj.CoreCompileInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.AssemblyInfoInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.AssemblyInfo.cs
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\JustAClient\SocketClient\obj\Debug\netcoreapp2.1\SocketClient.pdb
